@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.8.28)  7 DEC 2022 10:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.8.28)  4 DEC 2022 17:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**res.tex
-(./res.tex
+**cv_google.tex
+(./cv_google.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-02-24> (./res.cls
 Document Style `res' <26 Sep 89>.
@@ -201,7 +201,7 @@ File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
 LaTeX Warning: Unused global option(s):
     [letterpaper].
 
-No file res.aux.
+No file cv_google.aux.
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
 LaTeX Font Info:    ... okay on input line 9.
 LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
@@ -261,21 +261,15 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [1
 
 {/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-[2]
-Overfull \hbox (7.69691pt too wide) in paragraph at lines 150--151
-[]\OT1/cmr/m/n/10 Developed a ges-ture recog-ni-tion al-go-rithm for a gesture-
-controlled human-computer
- []
-
-[3] ) 
+[2] ) 
 Here is how much of TeX's memory you used:
  8259 strings out of 478268
- 127919 string characters out of 5846347
- 432066 words of memory out of 5000000
+ 127970 string characters out of 5846347
+ 433072 words of memory out of 5000000
  26413 multiletter control sequences out of 15000+600000
  472822 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,7n,63p,203b,374s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 60i,7n,63p,197b,371s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.
 pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.p
 fb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
@@ -284,10 +278,10 @@ usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr
 /local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/
 local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/lo
 cal/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on res.pdf (3 pages, 123572 bytes).
+Output written on cv_google.pdf (2 pages, 116518 bytes).
 PDF statistics:
- 62 PDF objects out of 1000 (max. 8388607)
- 40 compressed objects within 1 object stream
- 4 named destinations out of 1000 (max. 500000)
+ 58 PDF objects out of 1000 (max. 8388607)
+ 37 compressed objects within 1 object stream
+ 3 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
