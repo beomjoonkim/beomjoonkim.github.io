@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.8.28)  2 NOV 2023 23:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.8.28)  15 NOV 2023 11:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -262,7 +262,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 {/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 [2]
-Overfull \hbox (7.69691pt too wide) in paragraph at lines 167--168
+Overfull \hbox (7.69691pt too wide) in paragraph at lines 172--173
 []\OT1/cmr/m/n/10 Developed a ges-ture recog-ni-tion al-go-rithm for a gesture-
 controlled human-computer
  []
@@ -284,7 +284,7 @@ b></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb><
 /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></
 usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></us
 r/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on res.pdf (4 pages, 124642 bytes).
+Output written on res.pdf (4 pages, 125081 bytes).
 PDF statistics:
  66 PDF objects out of 1000 (max. 8388607)
  43 compressed objects within 1 object stream
